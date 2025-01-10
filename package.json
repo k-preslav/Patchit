@@ -1,0 +1,16 @@
+{
+  "name": "patchit",
+  "productName": "Patchit",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electronmon ."
+  },
+  "author": "Preslav Kolev",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "electron": "^33.3.1",
+    "toastify-js": "^1.12.0"
+  }
+}
